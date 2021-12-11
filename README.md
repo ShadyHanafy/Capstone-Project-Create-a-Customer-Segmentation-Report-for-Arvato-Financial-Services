@@ -43,7 +43,7 @@ There are 1 notebook and 4 datasets to be used here to showcase work related to 
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://github.com/ShadyHanafy/Shady/blob/main/Project%20Details.md).
+The main findings & results have been clearly documented in the Jupyter Notebook. Please refer [here](https://github.com/ShadyHanafy/Customer-Segmentation-Report-for-Arvato/blob/main/Arvato%20Project%20Workbook.ipynb).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
