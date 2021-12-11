@@ -11,40 +11,35 @@
 ## Installation <a name="installation"></a>
 
 The code should run with no issues using Python versions 3. The libraries to run the code here beside the Anaconda distribution of Python as as follow:
-* sqlalchemy
-* nltk
-* re
+* numpy
 * pandas
+* sns
+* matplotlib
 * sklearn
-* pickle
-* sys
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, the goal is to analyze disaster response data and classifiy the messages into categories for fast response detection from Figure Eight to build a model for that purpose over 3 steps:
+For this project, the target is to analyze demographics data for customers of a mail-order sales company in Germany, comparing it against demographics information for the general population. and predict which individuals are most likely to convert into becoming customers for the company. For that purpose we will do the following:
 
-1. Use ETL Pipeline to explore, clean and analyze the data then store that final table in sql DB
-2. Use ML Pipeline to load the stored data, build a classifier model, train it and predict till the highest accuracy
-3. Store the Model into a pickle file to be used by Flask Web APP to view the categories of the messages
+1. Use ETL Pipeline to explore, clean and analyze the data sets
+2. Using unsupervised learning techniques to perform customer segmentation, identifying the parts of the population that best describe the core customer base of the company
+3. Apply all used techniques on a third dataset with demographics information for targets of a marketing campaign for the company, and use a supervised learning model to predict which individuals are most likely to convert into becoming customers for the company
 
 
 ## File Descriptions <a name="files"></a>
 
-There are 2 notebooks and 2 datasets available here to showcase work related to the above steps. Markdown cells were used to assist in walking through the thought process for individual steps.  
-1. ETL Pipeline Preparation.ipynb : Explore the  dataset and understand the messages classification
-2. ML Pipeline Preparation.ipynb : Build classifier model to predict the messages categories
-3. workspace
-	- \data
-		* disaster_categories.csv: categories dataset
-		* disaster_messages.csv: messages dataset
-		* DisasterResponse.db: disaster response database
-		* process_data.py: built using ETL Pipeline.ipyb code
-		
-	- \models
-		* train_classifier.py: built using ML Pipeline.ipyb code
+There are 1 notebook and 4 datasets to be used here to showcase work related to the above steps. Markdown cells were used to assist in walking through the thought process for individual steps.  
+1. Arvato Project Workbook.ipynb : Include all our work
+2. Files to be used (not available for loading)
+		* Udacity_AZDIAS_052018.csv: Demographics data for the general population of Germany; 891 211 persons (rows) x 366 features (columns).
+		* Udacity_CUSTOMERS_052018.csv: Demographics data for customers of a mail-order company; 191 652 persons (rows) x 369 features (columns).
+		* Udacity_MAILOUT_052018_TRAIN.csv: Demographics data for individuals who were targets of a marketing campaign; 42 982 persons (rows) x 367 (columns).
+		* Udacity_MAILOUT_052018_TEST.csv: Demographics data for individuals who were targets of a marketing campaign; 42 833 persons (rows) x 366 (columns)
 
 
 ## Results<a name="results"></a>
+
+The main findings of the code can be found at the post available [here](https://github.com/ShadyHanafy/Shady/blob/main/Project%20Details.md).
 
 ### FlaskAPP Visualization : http://0.0.0.0:3001/
 ![This is an image](https://github.com/ShadyHanafy/DisasterResponse.io/blob/main/FlaskApp.png)
@@ -61,6 +56,7 @@ Run the following commands in the project's root directory to set up your databa
 3. Run the following command in the app's directory to run your web app. python run.py
 4. Go to http://0.0.0.0:3001/
 
+
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Figure Eight for the data.  You can find the Licensing for the data and other descriptive information at the link available [here](https://appen.com/). 
+Must give credit to AZ Direct GmbH for the data.  You can find the Licensing for the data and other descriptive information at the link available [here](https://viewbkemtrvpm7.udacity-student-workspaces.com/files/terms.pdf). 
