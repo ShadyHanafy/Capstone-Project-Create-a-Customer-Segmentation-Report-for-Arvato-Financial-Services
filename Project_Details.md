@@ -46,6 +46,7 @@ Sample view for the dataset content
 ## **Customer Segmentation and Clustering**
 
 1. Using unsupervised ML technique (Kmeans) I could find the optimal number of clusters to represent customers segementation to be around 15 clusters
+
 ![This is an image](https://github.com/ShadyHanafy/Customer-Segmentation-Report-for-Arvato/blob/main/clusters.png)
 
 2. Applying the previous techniques over the customers data and compare the two cluster distributions for the data demographics of the general population and the customer data for a mail-order sales company to see where the strongest customer base for the company is
@@ -60,4 +61,7 @@ Sample view for the dataset content
 2. The training dataset file included one additional column, "RESPONSE", which indicated whether or not each recipient became a customer of the company
 3. Using Supervised ML model (Logistics regression) we could build a prediction model for that purpose with training accuracy ~ 97%
 4. Using a dataset of 42 833 persons (rows) x 366 (columns) represent demographics data for individuals who were targets of a marketing campaign for testing purpose for the model
+
 ![This is an image](https://github.com/ShadyHanafy/Customer-Segmentation-Report-for-Arvato/blob/main/predict.png)
+
+***The detailed data anlysis and all procedures can be found [here] https://github.com/ShadyHanafy/Customer-Segmentation-Report-for-Arvato/blob/main/Arvato%20Project%20Workbook.ipynb***
