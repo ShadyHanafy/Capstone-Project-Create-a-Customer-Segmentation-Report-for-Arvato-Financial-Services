@@ -1,4 +1,4 @@
-# Seattle Airbnb Bookings — Data Analysis
+# Customer Segmentation Report for Arvato Financial Services
 ![This is an image](https://github.com/ShadyHanafy/Customer-Segmentation-Report-for-Arvato/blob/main/Arvato-Bertelsmann-Picture.jpg)
 
 This blog purpose is to analyze demographics data for customers of a mail-order sales company in Germany, comparing it against demographics information for the general population. and predict which individuals are most likely to convert into becoming customers for the company, I will use CRISP-DM to:
