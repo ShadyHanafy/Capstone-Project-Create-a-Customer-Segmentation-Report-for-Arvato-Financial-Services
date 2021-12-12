@@ -19,7 +19,7 @@ The code should run with no issues using Python versions 3. The libraries to run
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, the target is to analyze demographics data for customers of a mail-order sales company in Germany, comparing it against demographics information for the general population. and predict which individuals are most likely to convert into becoming customers for the company. For that purpose we will do the following:
+For this project, the target is to analyze demographics data for customers of a mail-order sales company in Germany, comparing it against demographics information for the general population and predict which individuals are most likely to convert into becoming customers for the company. For that purpose we will do the following:
 
 1. Use ETL Pipeline to explore, clean and analyze the data sets
 2. Using unsupervised learning techniques to perform customer segmentation, identifying the parts of the population that best describe the core customer base of the company
