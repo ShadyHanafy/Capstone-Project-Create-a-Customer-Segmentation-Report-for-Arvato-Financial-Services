@@ -1,7 +1,7 @@
 # Customer Segmentation Report for Arvato Financial Services
 ![This is an image](https://github.com/ShadyHanafy/Customer-Segmentation-Report-for-Arvato/blob/main/Arvato-Bertelsmann-Picture.jpg)
 
-This blog purpose is to analyze demographics data for customers of a mail-order sales company in Germany, comparing it against demographics information for the general population. and predict which individuals are most likely to convert into becoming customers for the company, I will use CRISP-DM to:
+This blog purpose is to analyze demographics data for customers of a mail-order sales company in Germany, comparing it against demographics information for the general population and predict which individuals are most likely to convert into becoming customers for the company, I will use CRISP-DM to:
 
 1. Analyze and understand the general deographics and customers data sets
 2. Perform customer segmentation and clustering identifying the parts of the population that best describe the core customer base of the company and generate customer segmentation report
