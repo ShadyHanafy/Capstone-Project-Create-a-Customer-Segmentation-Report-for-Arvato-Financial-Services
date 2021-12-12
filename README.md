@@ -47,4 +47,4 @@ The main findings & results have been clearly documented in the Jupyter Notebook
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to AZ Direct GmbH for the data.  You can find the Licensing for the data and other descriptive information at the link available [here](https://viewbkemtrvpm7.udacity-student-workspaces.com/files/terms.pdf). 
+Must give credit to AZ Direct GmbH for the data.  You can find the Licensing for the data and other descriptive information at the link available [here](hhttps://github.com/ShadyHanafy/Customer-Segmentation-Report-for-Arvato/blob/main/Project_Details.md). 
