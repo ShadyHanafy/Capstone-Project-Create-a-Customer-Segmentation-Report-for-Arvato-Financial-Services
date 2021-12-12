@@ -32,6 +32,7 @@ Sample view for the dataset content
 ## **Analysis Findings**
 ### **Data Cleaning and transforming**
 
+***Distribution of missing value counts per feature***
 ![This is an image](https://github.com/ShadyHanafy/Customer-Segmentation-Report-for-Arvato/blob/main/final_data.png)
 
 1. After cleansup the highly missing features we have now around 339 features including the 6 categrical/mixed features. Analyzing those, we can see that 5 of them have multi dimension values so I decided to drop them ['CAMEO_DEU_2015', 'CAMEO_DEUG_2015', 'CAMEO_INTL_2015',
