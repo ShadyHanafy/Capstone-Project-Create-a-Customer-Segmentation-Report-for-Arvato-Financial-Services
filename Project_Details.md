@@ -43,7 +43,7 @@ Sample view for the dataset content
 ![This is an image](https://github.com/ShadyHanafy/Customer-Segmentation-Report-for-Arvato/blob/main/pca.png)
 
 
-### **Customer Segmentation and Clustering**
+## **Customer Segmentation and Clustering**
 
 1. Using unsupervised ML technique (Kmeans) I could find the optimal number of clusters to represent customers segementation to be around 15 clusters
 ![This is an image](https://github.com/ShadyHanafy/Customer-Segmentation-Report-for-Arvato/blob/main/clusters.png)
@@ -54,7 +54,7 @@ Sample view for the dataset content
 ![This is an image](https://github.com/ShadyHanafy/Customer-Segmentation-Report-for-Arvato/blob/main/distribution.png)
 
 
-### **Target Customers Prediction**
+## **Target Customers Prediction**
 
 1. Using a dataset of 42 982 persons (rows) x 367 (columns) represent demographics data for individuals who were targets of a marketing campaign for training purpose
 2. The training dataset file included one additional column, "RESPONSE", which indicated whether or not each recipient became a customer of the company
