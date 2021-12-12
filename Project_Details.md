@@ -64,4 +64,4 @@ Sample view for the dataset content
 
 ![This is an image](https://github.com/ShadyHanafy/Customer-Segmentation-Report-for-Arvato/blob/main/predict.png)
 
-***The detailed data anlysis and all procedures can be found [here](https://github.com/ShadyHanafy/Customer-Segmentation-Report-for-Arvato/blob/main/Arvato%20Project%20Workbook.ipynb).
+***The detailed data anlysis and all procedures can be found [here](https://github.com/ShadyHanafy/Customer-Segmentation-Report-for-Arvato/blob/main/Arvato%20Project%20Workbook.ipynb)***
