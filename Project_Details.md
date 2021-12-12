@@ -119,7 +119,7 @@ In this project, real-life demographics data of Germany population and demograph
 
 ## **improvements**
 There are some improvements can be done here, for example:
-***.*** There are other ways to preprocess the data, specially the categorical/mixed data types. 
-***.*** Choose another threshold for dropping columns, apply MinMax Scaler instead of Standard Scaler, impute data in another way.
+***1*** There are other ways to preprocess the data, specially the categorical/mixed data types. 
+***2*** Choose another threshold for dropping columns, apply MinMax Scaler instead of Standard Scaler, impute data in another way.
 
 ***The detailed data anlysis and all procedures can be found [here](https://github.com/ShadyHanafy/Customer-Segmentation-Report-for-Arvato/blob/main/Arvato%20Project%20Workbook.ipynb)***
