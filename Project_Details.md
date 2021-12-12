@@ -29,8 +29,6 @@ Sample view for the dataset content
 4. There are extra features in customers data that I decided to drop to match the general population data structure
 5. There are around 26 features with missing data more than 40 % of the records of the fearture in the general population data
 
-After data preparation and cleansing, now let's try to answer the above questions
-
 ## **Analysis Findings**
 ### **Data Cleaning and transforming**
 
