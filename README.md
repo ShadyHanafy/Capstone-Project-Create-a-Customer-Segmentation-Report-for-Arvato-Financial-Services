@@ -43,7 +43,7 @@ There are 1 notebook and 4 datasets to be used here to showcase work related to 
 
 ## Results<a name="results"></a>
 
-The main findings & results you can find it in the following blog. Please refer [here](https://github.com/ShadyHanafy/Customer-Segmentation-Report-for-Arvato/blob/main/Project_Details.md).
+The main findings & results you can find it in the following blog. Please refer [here](https://medium.com/@shady788/customer-segmentation-report-for-arvato-financial-services-f2ffdd6d72e4).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
