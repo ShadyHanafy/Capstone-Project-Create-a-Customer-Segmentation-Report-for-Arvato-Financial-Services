@@ -43,8 +43,8 @@ There are 1 notebook and 4 datasets to be used here to showcase work related to 
 
 ## Results<a name="results"></a>
 
-The main findings & results you can find it in the following blog. Please refer [here](https://github.com/ShadyHanafy/Customer-Segmentation-Report-for-Arvato/blob/main/Arvato%20Project%20Workbook.ipynb).
+The main findings & results you can find it in the following blog. Please refer [here](https://github.com/ShadyHanafy/Customer-Segmentation-Report-for-Arvato/blob/main/Project_Details.md).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to AZ Direct GmbH for the data.  You can find the Licensing for the data and other descriptive information at the link available [here](hhttps://github.com/ShadyHanafy/Customer-Segmentation-Report-for-Arvato/blob/main/Project_Details.md). 
+Must give credit to AZ Direct GmbH for the data.  You can find the Licensing for the data and other descriptive information at the link available [here](https://viewbkemtrvpm7.udacity-student-workspaces.com/files/terms.pdf). 
